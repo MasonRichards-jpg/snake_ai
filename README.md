@@ -6,9 +6,10 @@
 ## TODOLIST
 ### **2. Core Game Logic**
 - [ ] Implement the basic Snake game using PyGame.
-  - [ ] Create the game board and Snake entity.
-  - [ ] Add food generation logic.
+  - [x] Create the game board
   - [ ] Handle Snake movement and collisions.
+      - did the movement need to make it snap to grid via collisions maybe?????
+  - [ ] Add food generation logic.
 - [ ] Test the game for basic functionality.
 
 ---
